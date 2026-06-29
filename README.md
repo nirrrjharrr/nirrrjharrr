@@ -1,16 +1,64 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**nirrrjharrr/nirrrjharrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>Nirjhar Das</h1>
 
-Here are some ideas to get you started:
+<p>
+  <strong>B.Sc. Student &middot; Computer Science & Engineering</strong><br/>
+  Chittagong University of Engineering & Technology (CUET), Bangladesh
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=ct3NPWEAAAAJ)
+&nbsp;
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0006--4408--6848-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0006-4408-6848)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nirjhar-das-15aa95362/)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nirrrjharrr)
+
+</div>
+
+---
+
+## 🎓 About
+
+I am an undergraduate student in Computer Science and Engineering at CUET, Bangladesh.
+My published work is in natural language processing—specifically transformer-based sentiment analysis for low-resource Bangla text (IEEE QPAIN 2026).
+
+---
+
+## 🔬 Research Interests
+
+- Computer Vision
+- Machine Learning
+- Multimodal AI
+- Medical Image Analysis
+- Explainable AI
+- Intelligent Transportation Systems
+
+---
+
+## 📚 Publications
+
+**Sentiment Analysis of Bangla E-Commerce Reviews Using Transformer**\
+Nirjhar Das et al. &nbsp;&middot;&nbsp; *IEEE QPAIN 2026*\
+DOI: [10.1109/QPAIN69676.2026.11546245](https://doi.org/10.1109/QPAIN69676.2026.11546245)
+
+---
+
+## 🌐 Academic Profiles
+
+| | |
+|---|---|
+| **Google Scholar** | [scholar.google.com/citations?user=ct3NPWEAAAAJ](https://scholar.google.com/citations?user=ct3NPWEAAAAJ) |
+| **ORCID** | [0009-0006-4408-6848](https://orcid.org/0009-0006-4408-6848) |
+| **LinkedIn** | [nirjhar-das-15aa95362](https://www.linkedin.com/in/nirjhar-das-15aa95362/) |
+| **GitHub** | [github.com/nirrrjharrr](https://github.com/nirrrjharrr) |
+
+---
+
+## 📫 Contact
+
+**Email:** nirjhardasami@gmail.com
+
