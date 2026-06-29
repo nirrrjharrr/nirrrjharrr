@@ -11,7 +11,7 @@
 
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=ct3NPWEAAAAJ)
 &nbsp;
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0006--4408--6848-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0006-4408-6848)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0006-4408-6848)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nirjhar-das-15aa95362/)
 &nbsp;
@@ -24,26 +24,22 @@
 ## 🎓 About
 
 I am an undergraduate student in Computer Science and Engineering at CUET, Bangladesh.
-My published work is in natural language processing—specifically transformer-based sentiment analysis for low-resource Bangla text (IEEE QPAIN 2026).
+My goal is to develop intelligent systems that can perceive, understand, and reason about complex real-world environments while remaining robust, interpretable, and trustworthy.
+
 
 ---
 
 ## 🔬 Research Interests
 
-- Computer Vision
-- Machine Learning
-- Multimodal AI
-- Medical Image Analysis
-- Explainable AI
-- Intelligent Transportation Systems
+- Computer Vision - Machine Learning - Multimodal AI - Medical Image Analysis - Explainable AI - Intelligent Transportation Systems
 
 ---
 
 ## 📚 Publications
 
-**Sentiment Analysis of Bangla E-Commerce Reviews Using Transformer**\
-Nirjhar Das et al. &nbsp;&middot;&nbsp; *IEEE QPAIN 2026*\
-DOI: [10.1109/QPAIN69676.2026.11546245](https://doi.org/10.1109/QPAIN69676.2026.11546245)
+**[Sentiment Analysis of Bangla E-Commerce Reviews Using Transformer](https://doi.org/10.1109/QPAIN69676.2026.11546245)**
+
+Nirjhar Das et al. · IEEE QPAIN 2026
 
 ---
 
