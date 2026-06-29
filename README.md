@@ -31,15 +31,15 @@ My goal is to develop intelligent systems that can perceive, understand, and rea
 
 ## 🔬 Research Interests
 
-Computer Vision · Machine Learning · Multimodal AI · Intelligent Transportation Systems · Medical Image Analysis · Explainable AI
+**Computer Vision** · **Machine Learning** · **Multimodal AI** · **Intelligent Transportation Systems** · **Medical Image Analysis** · **Explainable AI**
 
 ---
 
 ## 📚 Publications
 
-**[Sentiment Analysis of Bangla E-Commerce Reviews Using Transformer](https://doi.org/10.1109/QPAIN69676.2026.11546245)**
-  Nirjhar Das, Nafis Fuad Pranta, Shuva Dey, Rathijit Aich  ·  *IEEE QPAIN 2026*
-  DOI: 10.1109/QPAIN69676.2026.11546245
+- **[Sentiment Analysis of Bangla E-Commerce Reviews Using Transformer](https://doi.org/10.1109/QPAIN69676.2026.11546245)**  
+  *IEEE QPAIN 2026*  
+  Nafis Fuad Pranta, Nirjhar Das, Shuva Dey, Rathijit Aich
 
 
 
