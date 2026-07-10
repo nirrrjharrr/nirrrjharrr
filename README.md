@@ -37,9 +37,21 @@ My goal is to develop intelligent systems that can perceive, understand, and rea
 
 ## 📚 Publications
 
-- **[Sentiment Analysis of Bangla E-Commerce Reviews Using Transformer](https://doi.org/10.1109/QPAIN69676.2026.11546245)**  
-  *IEEE QPAIN 2026*  
-  Nafis Fuad Pranta, Nirjhar Das, Shuva Dey, Rathijit Aich
+### ACL Anthology (2026)
+
+**Vinland_Vector at #SMM4H-HeaRD 2026: Multilingual ADE Detection and Query-Augmented Clinical NER for English**  
+*Nirjhar Das, Rathijit Aich, Mahfuzulhoq Chowdhury*  
+Proceedings of the 11th Social Media Mining for Health Research and Applications (SMM4H-HeaRD 2026) Workshop and Shared Tasks, ACL 2026.  
+🔗 DOI: https://doi.org/10.18653/v1/2026.smm4h-1.33
+
+---
+
+### IEEE QPAIN 2026
+
+**Sentiment Analysis of Bangla E-Commerce Reviews Using Transformer**  
+*Nafis Fuad Pranta, Nirjhar Das, Shuva Dey, Rathijit Aich*  
+IEEE QPAIN 2026.  
+🔗 DOI: https://doi.org/10.1109/QPAIN69676.2026.11546245
 
 
 
