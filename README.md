@@ -61,9 +61,9 @@ IEEE QPAIN 2026.
 
 **Task-Specific Multimodal Question Answering Agents via Confidence Calibration and Incremental Reasoning for QANTA 2026**  
 *Nirjhar Das, Md. Al-Mamun Provath*  
-EMM-QA 2026 Workshop at ICML 2026 (Non-Archival). Rank #1 Overall System in the QANTA 2026 Challenge. Updated version available on arXiv. 
-🔗 Workshop: https://qanta-org.github.io/competition/2026/accepted-papers/  
-🔗 arXiv: https://arxiv.org/abs/2607.09623
+Accepted at the Efficient Multimodal Question Answering (EMM-QA) 2026 Workshop, ICML 2026 (Non-Archival). Rank #1 Overall System in the QANTA 2026 Challenge.
+- [Workshop Listing](https://qanta-org.github.io/competition/2026/accepted-papers/)
+- [Updated Version (arXiv)](https://arxiv.org/abs/2607.09623)
 
 ## 📫 Contact
 
